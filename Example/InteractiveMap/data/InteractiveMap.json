@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "name": "Arc de Triomphe",
+        "image": "arc_de_triomphe",
+        "x": 163,
+        "y": 130,
+        "textPosition": "top",
+        "event": 2
+    }, {
+        "id": 2,
+        "name": "Sacré Coeur",
+        "image": "sacre_coeur",
+        "x": 442,
+        "y": 14,
+        "textPosition": "bottom",
+        "event": 3
+    }, {
+        "id": 3,
+        "name": "Tour Eiffel",
+        "image": "tour_eiffel",
+        "x": 177,
+        "y": 244,
+        "textPosition": "top",
+        "event": 4
+    }, {
+        "id": 4,
+        "name": "Musée du Louvre",
+        "image": "musee_du_louvre",
+        "x": 344,
+        "y": 234,
+        "textPosition": "top",
+        "event": 5
+    }, {
+        "id": 5,
+        "name": "Le Père Lachaise",
+        "image": "cimetiere_du_pere_lachaise",
+        "x": 672,
+        "y": 231,
+        "textPosition": "top",
+        "event": 6
+    }
+]
