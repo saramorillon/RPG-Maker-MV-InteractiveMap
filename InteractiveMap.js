@@ -137,17 +137,6 @@
         }
     };
 
-    //=============================================================================
-    // Touch input
-    //=============================================================================
-    var TouchInput_onMouseMove = TouchInput._onMouseMove;
-    TouchInput._onMouseMove = function (event) {
-        TouchInput_onMouseMove.call(this, event);
-        
-        this._cursorX = Graphics.pageToCanvasX(event.pageX);
-        this._cursorY = Graphics.pageToCanvasY(event.pageY);
-    };
-
     var loadMaps = function () {
 
         var xhr = new XMLHttpRequest();
