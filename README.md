@@ -2,6 +2,10 @@
 
 RPG Maker MV Achievements allows you to create achievements in RPG Maker MV.
 
+# Dependencies
+
+This script needs [TouchInputUpdate](https://github.com/PicusViridis/RPG-Maker-MV-TouchInputUpdate)
+
 # Usage
 
 To open the interactive, use the module command "InteractiveMap open".
